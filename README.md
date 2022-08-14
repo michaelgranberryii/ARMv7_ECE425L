@@ -3,4 +3,4 @@ ECE 425/L. Microprocessor Systems and Lab
 
 ## Course description:
 
-Studies of microprocessor architectures and microcomputer systems. Basic microprocessor software consideration and assembly language programming. Microcomputers system design considerations, applications and design with a microcontroller.
+Study of microprocessor architectures and microcomputer systems. Basic microprocessor software consideration and assembly language programming. Microcomputers system design considerations, applications and design with a microcontroller.
